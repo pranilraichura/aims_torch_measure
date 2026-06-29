@@ -35,6 +35,15 @@ Generalizability
 
 .. autofunction:: torch_measure.metrics.bootstrap_variance_components
 
+Assumption checks
+-----------------
+
+.. autofunction:: torch_measure.metrics.normality_check
+
+.. autofunction:: torch_measure.metrics.tukey_nonadditivity_test
+
+.. autofunction:: torch_measure.metrics.levene_homogeneity_test
+
 Calibration
 -----------
 
